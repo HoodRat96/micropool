@@ -190,3 +190,8 @@ footer p {
         clear: both;
     }
 }
+
+hr.divider {
+    border-color: darkgrey;
+    max-width: 250px;
+}
