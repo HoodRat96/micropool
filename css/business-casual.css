@@ -207,3 +207,8 @@ hr.divider {
 	width: 100%;
 	height: 500px;
 }
+
+a.no-link{
+	text-decoration: none;
+	color: #000;
+}
