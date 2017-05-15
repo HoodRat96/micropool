@@ -102,6 +102,11 @@ hr {
     margin: 0 auto 0;
 }
 
+.img-small {
+    width: 400px;
+    max-width: 100%;
+}
+
 footer {
     background: #fff;
     background: rgba(255,255,255,0.9);
