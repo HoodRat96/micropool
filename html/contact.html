@@ -72,60 +72,89 @@
 
     <div class="container">
 
+       	
         <div class="row">
+         	<!-- Kaartje met als locatie de uni -->
             <div class="box">
-                <div class="col-lg-12">
+                <div class="col-md-12">
                     <hr>
                     <h2 class="intro-text text-center">Contact
                         <strong>Micropool</strong>
                     </h2>
                     <hr>
                 </div>
-                
+
                 <div class="col-md-12">
                    	<iframe width="100%" height="100%" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/view?zoom=14&center=51.4486%2C5.4907&key=AIzaSyBwh6GI7f-hYaAAB9bisyRk6ZVR7mIopXo" allowfullscreen></iframe>
                 </div>
                                 
                 <div class="clearfix"></div>
             </div>
-            
-            
-            
-            
-            
-            
-            
-            <div class="box">
-				<div class="contactFrm">
-				<!--
-				<?php if(!empty($statusMsg)){ ?>
-					<p class="statusMsg <?php echo !empty($msgClass)?$msgClass:''; ?>"><?php echo $statusMsg; ?></p>
-				<?php } ?>-->
-				<form action="" method="post">
-					<h4>Name</h4>
-					<input type="text" name="name" placeholder="Your Name" required="">
-					<h4>Message</h4>
-					<textarea name="message" placeholder="Write your message here" required> </textarea>
-					<input type="submit" name="submit" value="Submit">
-					<div class="clear"> </div>
-				</form>
-			</div>
-						
-			</div>
         </div>
+        
+        <div class="row">
+        	<div class="box">
+        		<div class="col-lg-12">
+        		
+					<form class="form-horizontal" role="form" method="post" action="contactje.php">
+						<!-- Name field -->
+						<div class="form-group">
+							<label for="name" class="col-sm-2 control-label">Name</label>
+							<div class="col-sm-10">
+								<input type="text" class="form-control" id="name" name="name" placeholder="First & Last Name" value="">
+								
+								<?php if (!$errName) { ?>
+									<p class="text-danger">$errName</p>;
+									<?php } ?> 
+							</div>
+						</div>
+						
+						<div class="form-group">
+							<label for="email" class="col-sm-2 control-label">Email</label>
+							<div class="col-sm-10">
+								<input type="email" class="form-control" id="email" name="email" placeholder="example@domain.com" value="">
+							</div>
+						</div>
+						<div class="form-group">
+							<label for="message" class="col-sm-2 control-label">Message</label>
+							<div class="col-sm-10">
+								<textarea class="form-control" rows="4" name="message"></textarea>
+							</div>
+						</div>
+						<div class="form-group">
+							<label for="human" class="col-sm-2 control-label">2 + 3 = ?</label>
+							<div class="col-sm-10">
+								<input type="text" class="form-control" id="human" name="human" placeholder="Your Answer">
+							</div>
+						</div>
+
+						<!-- Button -->
+						<div class="form-group">
+							<div class="col-sm-10 col-sm-offset-2">
+								<input id="submit" name="submit" type="submit" value="Send" class="btn btn-primary">
+							</div>
+						</div>
+						<div class="form-group">
+							<div class="col-sm-10 col-sm-offset-2">
+								<! Will be used to display an alert to the user>
+							</div>
+						</div>
+					</form>
+				
+				</div>
+			</div>
+		</div>
 
         <div class="row">
             <div class="box">
                 <div class="col-lg-12">
-                    <hr>
-                    <h2 class="intro-text text-center">Ons 
+                    <hr><h2 class="intro-text text-center">Ons 
                     <strong>Contactformulier</strong>
-                    </h2>
-                    <hr>
+                    </h2><hr>
                     <p class="text-center">Mocht u nog vragen of onduidelijkheden hebben, aarzel dan alstublieft niet ons te contacteren. Wij horen graag van u!</p>
                     <p class="text-center">Stuur een mail naar <strong><a href="mailto:name@example.com">contact@micropool.nl</a></strong>, of vul onderstaand contactformulier in.</p>
                     
-                    <form role="form">
+                    <form role="form" action="./contact.html" method="post">
                         <div class="row">
                             <div class="form-group col-lg-4">
                                 <label>Naam</label>
@@ -157,6 +186,7 @@
     </div>
     <!-- /.container -->
 
+   	<!-- footer, niks interessants -->
     <footer>
         <div class="container">
             <div class="row">
@@ -174,5 +204,4 @@
     <script src="../js/bootstrap.min.js"></script>
 
 </body>
-
 </html>
