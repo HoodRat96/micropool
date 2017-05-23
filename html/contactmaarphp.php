@@ -105,16 +105,16 @@
                     <form role="form" action="./contactmaarphp.php" method="post">
                         <div class="row">
                             <div class="form-group col-lg-4">
-                                <label for="name">Naam</label>
-                                <input type="text" id="name" name="name" class="form-control" placeholder="Uw naam" required="">
+                                <label for="naam">Naam</label>
+                                <input type="text" id="naam" name="name" class="form-control" placeholder="Uw naam" required autocomplete="name">
                             </div>
                             <div class="form-group col-lg-4">
                                 <label for="email">Email-adres</label>
-                                <input type="email" id="email" name="email" class="form-control" placeholder="email@voorbeeld.nl">
+                                <input type="email" id="email" name="email" class="form-control" placeholder="email@voorbeeld.nl" required autocomplete="email">
                             </div>
                             <div class="form-group col-lg-4">
                                 <label for="telnr">Telefoonnummer</label>
-                                <input type="tel" id="telnr" name="tel" class="form-control" placeholder="06 12345678">
+                                <input type="tel" id="telnr" name="tel" class="form-control" placeholder="06 12345678" required autocomplete="tel">
                             </div>
                             <div class="clearfix"></div>
                             <div class="form-group col-lg-12">
