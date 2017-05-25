@@ -46,7 +46,7 @@
                     <span class="icon-bar"></span>
                 </button>
                 <!-- navbar-brand is hidden on larger screens, but visible when the menu is collapsed -->
-                <a class="navbar-brand" href="index.html">Micropool</a>
+                <a class="navbar-brand" href="../index.html">Micropool</a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -84,8 +84,24 @@
                     <hr>
                 </div>
 
-                <div class="col-md-12">
-                   	<iframe width="100%" height="100%" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/view?zoom=14&center=51.4486%2C5.4907&key=AIzaSyBwh6GI7f-hYaAAB9bisyRk6ZVR7mIopXo" allowfullscreen></iframe>
+               <!-- Kaartje voor grote schermen -->
+                <div class="col-md-12 hidden-md hidden-sm hidden-xs">
+					<center><iframe width="80%" height="450px" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/view?zoom=13,5&center=51.4486%2C5.4907&key=AIzaSyD2Gu2dUWLUovGaKdkQI-bpre1Q6Tq5SR8" allowfullscreen></iframe></center>
+                </div>
+                  	
+                <!-- Kaartje voor middle sized screens -->
+                <div class="col-md-12 hidden-lg hidden-sm hidden-xs">
+					<center><iframe width="80%" height="450px" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/view?zoom=13,5&center=51.4486%2C5.4907&key=AIzaSyD2Gu2dUWLUovGaKdkQI-bpre1Q6Tq5SR8" allowfullscreen></iframe></center>
+                </div>
+                  	
+                <!-- Kaartje voor small screens -->
+                <div class="col-md-12 hidden-lg hidden-md hidden-xs">
+					<center><iframe width="90%" height="400px" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/view?zoom=14&center=51.4486%2C5.4907&key=AIzaSyD2Gu2dUWLUovGaKdkQI-bpre1Q6Tq5SR8" allowfullscreen></iframe></center>
+                </div>
+                               
+				<!-- Kaartje voor extrakleine schermen -->
+				<div class="col-md-12 hidden-lg hidden-md hidden-sm">
+					<center><iframe width="100%" height="300px" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/view?zoom=13&center=51.4486%2C5.4907&key=AIzaSyD2Gu2dUWLUovGaKdkQI-bpre1Q6Tq5SR8" allowfullscreen></iframe></center>
                 </div>
                                 
                 <div class="clearfix"></div>
@@ -101,6 +117,7 @@
                     </h2><hr>
                     <p class="text-center">Mocht u nog vragen of onduidelijkheden hebben, aarzel dan alstublieft niet ons te contacteren. Wij horen graag van u!</p>
                     <p class="text-center">Stuur een mail naar <strong><a href="mailto:contact@micropool.nl">contact@micropool.nl</a></strong>, of vul onderstaand contactformulier in.</p>
+                    <hr>
                     
                     <form role="form" action="./contactmaarphp.php" method="post">
                         <div class="row">

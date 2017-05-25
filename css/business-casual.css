@@ -229,3 +229,16 @@ a.no-link{
 .smaller-text {
 	font-size: 100%;
 }
+
+#extramargin {
+	margin-top: 100px;
+	margin-bottom: 160px;
+}
+
+#clamped {
+	position: fixed;
+	left:0px;
+	bottom:0px;
+	height:125px;
+	width:100%;
+}
