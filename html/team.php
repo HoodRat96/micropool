@@ -48,23 +48,23 @@
                     <span class="icon-bar"></span>
                 </button>
                 <!-- navbar-brand is hidden on larger screens, but visible when the menu is collapsed -->
-                <a class="navbar-brand" href="../index.html">Micropool</a>
+                <a class="navbar-brand" href="../index.php">Micropool</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
                     <li>
-                        <a href="../index.html">Home</a>
+                        <a href="../index.php">Home</a>
                     </li>
                     <li>
-                        <a href="./team.html">Over ons</a>
+                        <a href="./team.php">Over ons</a>
                     </li>
                     <li>
-                        <a href="./vision.html">Visie</a>
+                        <a href="./vision.php">Visie</a>
                     </li>
                     <li>
-                        <a href="./contact.html">Contact</a>
+                        <a href="./contact.php">Contact</a>
                     </li>
                 </ul>
             </div>
@@ -232,9 +232,9 @@
                         <a href="mailto:rodger@micropool.nl">rodger@micropool.nl</a></p>
                     <p><strong>Telefoonnummer:</strong> 06 533 04 717</p>
 
+                    <p class="smaller-text">De kracht van kleinere dorpen zit in het ons-kent-ons-gevoel dat er heerst. Saamhorigheid is voor veel bewoners één van de kernwaarden en vaak een belangrijke motivator. Vandaar dat we dit volop dienen te benutten.</p>
                     <p class="smaller-text">Mijn naam is Rodger van der Heijden. Ik studeer aan de Technische Universiteit Eindhoven, en wel Psychology & Technology. De notie dat techniek waardeloos is als deze niet aansluit op de exacte wensen van de gebruiker is er een die vaak over het hoofd gezien wordt, wat voor mij onbegrijpelijk is. Succesvolle innovatie, in wat voor vorm dan ook, gebeurt mijns inziens enkel met medewerking van de eindgebruiker, maar ook met alle tussenstations.</p>
                     <p class="smaller-text">Hoewel het dorp waar ik opgegroeid ben, Deurne, niet klein te noemen valt, was de verhuizing naar Eindhoven een kennismaking met een heel andere wereld. Bezoekjes bij vrienden of familie in nabijgelegen dorpjes herinneren me er altijd aan dat ik dankbaar mag zijn voor alle gemakken die Eindhoven en in mindere mate Deurne te bieden hebben.</p>
-                    <p class="smaller-text">De kracht van kleinere dorpen zit in het ons-kent-ons-gevoel dat er heerst. Saamhorigheid is voor veel bewoners één van de kernwaarden en vaak een belangrijke motivator. Vandaar dat we dit volop dienen te benutten.</p>
                     <p class="smaller-text">Tijdens divers commissiewerk en een bestuursjaar bij mijn studentenijshockeyvereniging heb ik veel kennis opgestoken over het verbinden van mensen. Iedereen heeft een eigen mening en geregeld staan belangen precies tegenover elkaar. Door goed met elkaar in gesprek te gaan, naar elkaar te luisteren, compromissen te sluiten en een open houding te hebben kan er echter bijna altijd wel een oplossing gevonden die iedereen tevreden stelt. En daarmee boekt men resultaten, naast de voldoening die het oplevert.</p>
 
                     <h2 align="center">
@@ -258,9 +258,10 @@
                 </div>
 
                 <div class="col-md-12 text-center">
+                   
+                   	<p class="smaller-text">De kracht van kleinere dorpen zit in het ons-kent-ons-gevoel dat er heerst. Saamhorigheid is voor veel bewoners één van de kernwaarden en vaak een belangrijke motivator. Vandaar dat we dit volop dienen te benutten.</p>
                     <p class="smaller-text">Mijn naam is Rodger van der Heijden. Ik studeer aan de Technische Universiteit Eindhoven, en wel Psychology & Technology. De notie dat techniek waardeloos is als deze niet aansluit op de exacte wensen van de gebruiker is er een die vaak over het hoofd gezien wordt, wat voor mij onbegrijpelijk is. Succesvolle innovatie, in wat voor vorm dan ook, gebeurt mijns inziens enkel met medewerking van de eindgebruiker, maar ook met alle tussenstations.</p>
                     <p class="smaller-text">Hoewel het dorp waar ik opgegroeid ben, Deurne, niet klein te noemen valt, was de verhuizing naar Eindhoven een kennismaking met een heel andere wereld. Bezoekjes bij vrienden of familie in nabijgelegen dorpjes herinneren me er altijd aan dat ik dankbaar mag zijn voor alle gemakken die Eindhoven en in mindere mate Deurne te bieden hebben.</p>
-                    <p class="smaller-text">De kracht van kleinere dorpen zit in het ons-kent-ons-gevoel dat er heerst. Saamhorigheid is voor veel bewoners één van de kernwaarden en vaak een belangrijke motivator. Vandaar dat we dit volop dienen te benutten.</p>
                     <p class="smaller-text">Tijdens divers commissiewerk en een bestuursjaar bij mijn studentenijshockeyvereniging heb ik veel kennis opgestoken over het verbinden van mensen. Iedereen heeft een eigen mening en geregeld staan belangen precies tegenover elkaar. Door goed met elkaar in gesprek te gaan, naar elkaar te luisteren, compromissen te sluiten en een open houding te hebben kan er echter bijna altijd wel een oplossing gevonden die iedereen tevreden stelt. En daarmee boekt men resultaten, naast de voldoening die het oplevert.</p>
                     
                     <p><strong>Email-adres:</strong>
@@ -409,7 +410,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <p>Copyright &copy; Micropool 2017</p>
+                    <p>Copyright &copy; Micropool <?php echo date("Y"); ?></p>
                 </div>
             </div>
         </div>

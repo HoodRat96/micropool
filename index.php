@@ -45,23 +45,23 @@
                     <span class="icon-bar"></span>
                 </button>
                 <!-- navbar-brand is hidden on larger screens, but visible when the menu is collapsed -->
-                <a class="navbar-brand" href="./index.html">Micropool</a>
+                <a class="navbar-brand" href="./index.php">Micropool</a>
             </div>
             
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
                     <li>
-                        <a href="./index.html">Home</a>
+                        <a href="./index.php">Home</a>
                     </li>
                     <li>
-                        <a href="./html/team.html">Over ons</a>
+                        <a href="./html/team.php">Over ons</a>
                     </li>
                     <li>
-                        <a href="./html/vision.html">Visie</a>
+                        <a href="./html/vision.php">Visie</a>
                     </li>
                     <li>
-                        <a href="./html/contact.html">Contact</a>
+                        <a href="./html/contact.php">Contact</a>
                     </li>
                 </ul>
             </div>
@@ -144,7 +144,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <p>Copyright &copy; Micropool 2017</p>
+                    <p>Copyright &copy; Micropool <?php echo date("Y"); ?></p>
                 </div>
             </div>
         </div>
