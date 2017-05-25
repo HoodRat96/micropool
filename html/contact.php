@@ -72,7 +72,7 @@
 
     <div class="container">
 
-       	
+       	<!-- Kaart -->
         <div class="row">
          	<!-- Kaartje met als locatie de uni -->
             <div class="box">
@@ -108,7 +108,7 @@
             </div>
         </div>
   
-
+		<!-- Contactformulier -->
         <div class="row">
             <div class="box">
                 <div class="col-lg-12">

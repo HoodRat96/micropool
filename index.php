@@ -31,7 +31,7 @@
 </head>
 
 <body>
-    <div class="brand"><img src="./img/headerlogo.png" alt="" height="60px">  Micropool</div>
+    <div class="brand"><img src="./img/headerlogo.png" alt="" height="60">  Micropool</div>
     
     <!-- Navigation -->
     <nav class="navbar navbar-default" role="navigation">
