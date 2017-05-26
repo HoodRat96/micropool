@@ -84,11 +84,11 @@
                     <h1 class="brand-name">Micropool</h1>
                     <hr class="divider">
                     
-                    <p>Een metropool is volgens Van Dale een 'wereldstad'. Een bloeiend en bruisend leven zijn hierbij snelgelegde associaties. Een utopie dat helaas niet voor elke plek weggelegd is. Toch?</p>
+                    <p>Een metropool is volgens Van Dale een 'wereldstad'. Een bloeiend en bruisend leven zijn hierbij snel gelegde associaties. Een utopie die helaas niet voor elke plek weggelegd is. Toch?</p>
                     
                     <p>Nee, incorrect. Aan de inwonersaantallen van een metropool komen we niet, maar de beleving van een levendig dorp kan wel degelijk gerealiseerd danwel gewaarborgd worden, zelfs wanneer in de toekomst er mogelijk mensen wegtrekken!</p>
                     
-					<p>Voor een schappelijke prijs brengen wij de mogelijkheden bij uw dorp of gemeenschap in beeld, maar belangrijker nog, betrekken we de lokale bevolking. We zorgen ervoor dat onze resultaten breed door de lokale bevolking wordt gedragen.</p>
+					<p>Voor een schappelijke prijs brengen wij de mogelijkheden bij uw dorp of gemeenschap in beeld, maar belangrijker nog, betrekken we de lokale bevolking. We zorgen ervoor dat onze resultaten breed door de lokale bevolking worden gedragen.</p>
                     
                     <hr>
 						<h3><small>Samen willen we werken aan de micropool van de toekomst</small></h3>
