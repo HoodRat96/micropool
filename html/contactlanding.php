@@ -55,13 +55,13 @@
                         <a href="../index.php">Home</a>
                     </li>
                     <li>
-                        <a href="./team.php">Over ons</a>
+                        <a href="./html/team.php">Over ons</a>
                     </li>
                     <li>
-                        <a href="./vision.php">Visie</a>
+                        <a href="./html/vision.php">Visie</a>
                     </li>
                     <li>
-                        <a href="./contact.php">Contact</a>
+                        <a href="./html/contact.php">Contact</a>
                     </li>
                 </ul>
             </div>
@@ -75,28 +75,16 @@
         <div class="row">
             <div class="box" id="extramargin">
             	<div class="col-lg-12 text-center">
-            		<br>
-            		<br>
-					<p>Bedankt voor uw interesse! We mailen u zo spoedig mogelijk terug!</p>
+					<p>Bedankt voor uw interesse, we mailen u zo spoedig mogelijk terug!</p>
+					
 					<br>
-					<br>
+					<p>Klik <a href="../index.php" class="no-link-color">hier</a> om terug naar de homepagina te gaan.</p>
 				</div>
             </div>
         </div>
 
     </div>
     <!-- /.container -->
-
-   	<!-- footer, niks interessants -->
-    <footer id="footer">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <p>Copyright &copy; Micropool 2017</p>
-                </div>
-            </div>
-        </div>
-    </footer>
 
     <!-- jQuery -->
     <script src="../js/jquery.js"></script>

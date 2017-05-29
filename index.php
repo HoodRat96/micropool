@@ -45,7 +45,9 @@
                     <span class="icon-bar"></span>
                 </button>
                 <!-- navbar-brand is hidden on larger screens, but visible when the menu is collapsed -->
-                <a class="navbar-brand" href="./index.php">Micropool</a>
+				<img class="navbar-brand" src="./img/mobileheaderlogo.png"/>
+           		
+				<a class="navbar-brand" href="./index.php"> Micropool</a>
             </div>
             
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -140,15 +142,6 @@
     </div>
     <!-- /.container -->
 
-    <footer>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <p>Copyright &copy; Micropool <?php echo date("Y"); ?></p>
-                </div>
-            </div>
-        </div>
-    </footer>
 
     <!-- jQuery -->
     <script src="js/jquery.js"></script>

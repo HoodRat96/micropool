@@ -90,7 +90,7 @@
                     <p>Bij Micropool vinden we dat Nederland een fantastisch land is om in te leven. Sterker nog, wij geloven zelfs dat we in het mooiste land ter wereld zitten. Daar mogen we zeker trots op zijn!</p>
                     <p>Vanuit onze gedeelde ervaring en opgedane kennis benaderen wij de problemen die we in krimpgebieden zien met een open vizier. Creativiteit staat bij ons hoog in het vaandel.</p>
                     <p>Belangrijker nog is echter participatie. Zonder intensieve samenwerking met alle betrokken partijen zal zelfs een geweldig idee niet optimaal benut worden. Bij Micropool zijn we hiervan op de hoogte, vandaar dat iedereen in alle fasen aan het woord gelaten zal worden! </p>
-                    <p>Wij dromen van een Nederland waar de steden bruisen van bedrijvigheid, waar de kleinere gemeenten niet als verlaten spooksteden achtergelaten zijn en waar de mens, ongeacht van wonend in stad of dorp, zich op zijn plaats voelt.</p>
+                    <p>Wij dromen van een Nederland waar de steden bruisen van bedrijvigheid, waar de kleinere gemeenten niet als verlaten spooksteden achtergelaten zijn en waar alle mensen, of deze nu in stad of dorp wonen, zich op hun plaats voelen.</p>
                     <hr>
                     <h3 align="center">
                     <small>Onze visie is er een van een Nederland waar ieders wensen betrokken zijn bij het eindresultaat!</small><hr>
@@ -406,15 +406,6 @@
         </div>
     </div>
 
-    <footer>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <p>Copyright &copy; Micropool <?php echo date("Y"); ?></p>
-                </div>
-            </div>
-        </div>
-    </footer>
 
     <!-- jQuery -->
     <script src="../js/jquery.js"></script>

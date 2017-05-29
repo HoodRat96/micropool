@@ -119,7 +119,7 @@
                     <p class="text-center">Stuur een mail naar <strong><a href="mailto:contact@micropool.nl">contact@micropool.nl</a></strong>, of vul onderstaand contactformulier in.</p>
                     <hr>
                     
-                    <form role="form" action="./contactmaarphp.php" method="post">
+                    <form role="form" action="../sent-form.php" method="post">
                         <div class="row">
                             <div class="form-group col-lg-4">
                                 <label for="name">Naam</label>
@@ -127,7 +127,7 @@
                             </div>
                             <div class="form-group col-lg-4">
                                 <label for="email">Email-adres</label>
-                                <input type="email" id="email" name="email" class="form-control" placeholder="email@voorbeeld.nl">
+                                <input type="email" id="email" name="email" class="form-control" placeholder="email@voorbeeld.nl" required="">
                             </div>
                             <div class="form-group col-lg-4">
                                 <label for="telnr">Telefoonnummer</label>
@@ -136,7 +136,7 @@
                             <div class="clearfix"></div>
                             <div class="form-group col-lg-12">
                                 <label>Bericht</label>
-                                <textarea class="form-control" rows="6"></textarea>
+                                <textarea class="form-control" rows="6" required=""></textarea>
                             </div>
                             
                             <div class="form-group col-lg-12">
@@ -151,17 +151,6 @@
 
     </div>
     <!-- /.container -->
-
-   	<!-- footer, niks interessants -->
-    <footer>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <p>Copyright &copy; Micropool <?php echo date("Y"); ?></p>
-                </div>
-            </div>
-        </div>
-    </footer>
 
     <!-- jQuery -->
     <script src="../js/jquery.js"></script>

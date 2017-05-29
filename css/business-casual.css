@@ -221,9 +221,13 @@ hr.divider {
 	padding-bottom: 15px;
 }
 
-a.no-link{
+a.no-link {
 	text-decoration: none;
 	color: #000;
+}
+
+a.no-link-color {
+	text-decoration: none;
 }
 
 .smaller-text {
@@ -231,8 +235,8 @@ a.no-link{
 }
 
 #extramargin {
-	margin-top: 100px;
-	margin-bottom: 160px;
+	margin-top: 50px;
+	margin-bottom: 190px;
 }
 
 #footer {
