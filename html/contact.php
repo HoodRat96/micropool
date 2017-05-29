@@ -115,7 +115,7 @@
                     <hr><h2 class="intro-text text-center">Ons 
                     <strong>Contactformulier</strong>
                     </h2><hr>
-                    <p class="text-center">Mocht u nog vragen of onduidelijkheden hebben, aarzel dan alstublieft niet ons te contacteren. Wij horen graag van u!</p>
+                    <p class="text-center">Heef u vragen of wenst u een nadere toelichting, aarzel dan niet ons te contacteren. Wij horen graag van u!</p>
                     <p class="text-center">Stuur een mail naar <strong><a href="mailto:contact@micropool.nl">contact@micropool.nl</a></strong>, of vul onderstaand contactformulier in.</p>
                     <hr>
                     

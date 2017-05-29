@@ -93,7 +93,7 @@
                     <p>Wij dromen van een Nederland waar de steden bruisen van bedrijvigheid, waar de kleinere gemeenten niet als verlaten spooksteden achtergelaten zijn en waar de mens, ongeacht van wonend in stad of dorp, zich op zijn plaats voelt.</p>
                     <hr>
                     <h3 align="center">
-                    <small>Onze visie is er een van een Nederland waar aan iedereens wensen voldaan kan worden, wat deze ook mogen zijn!</small><hr>
+                    <small>Onze visie is er een van een Nederland waar ieders wensen betrokken zijn bij het eindresultaat!</small><hr>
                     </h3>
                 </div>
                 <div class="col-md-1"></div>
@@ -232,14 +232,14 @@
                         <a href="mailto:rodger@micropool.nl">rodger@micropool.nl</a></p>
                     <p><strong>Telefoonnummer:</strong> 06 533 04 717</p>
 
-                    <p class="smaller-text">De kracht van kleinere dorpen zit in het ons-kent-ons-gevoel dat er heerst. Saamhorigheid is voor veel bewoners één van de kernwaarden en vaak een belangrijke motivator. Vandaar dat we dit volop dienen te benutten.</p>
+                    <p class="smaller-text">De kracht van kleinere dorpen zit in het ons-kent-ons-gevoel. Saamhorigheid is voor veel bewoners één van de kernwaarden en vaak een belangrijke motivator. Vandaar dat we dit volop dienen te benutten.</p>
                     <p class="smaller-text">Mijn naam is Rodger van der Heijden. Ik studeer aan de Technische Universiteit Eindhoven, en wel Psychology & Technology. De notie dat techniek waardeloos is als deze niet aansluit op de exacte wensen van de gebruiker is er een die vaak over het hoofd gezien wordt, wat voor mij onbegrijpelijk is. Succesvolle innovatie, in wat voor vorm dan ook, gebeurt mijns inziens enkel met medewerking van de eindgebruiker, maar ook met alle tussenstations.</p>
                     <p class="smaller-text">Hoewel het dorp waar ik opgegroeid ben, Deurne, niet klein te noemen valt, was de verhuizing naar Eindhoven een kennismaking met een heel andere wereld. Bezoekjes bij vrienden of familie in nabijgelegen dorpjes herinneren me er altijd aan dat ik dankbaar mag zijn voor alle gemakken die Eindhoven en in mindere mate Deurne te bieden hebben.</p>
-                    <p class="smaller-text">Tijdens divers commissiewerk en een bestuursjaar bij mijn studentenijshockeyvereniging heb ik veel kennis opgestoken over het verbinden van mensen. Iedereen heeft een eigen mening en geregeld staan belangen precies tegenover elkaar. Door goed met elkaar in gesprek te gaan, naar elkaar te luisteren, compromissen te sluiten en een open houding te hebben kan er echter bijna altijd wel een oplossing gevonden die iedereen tevreden stelt. En daarmee boekt men resultaten, naast de voldoening die het oplevert.</p>
+                    <p class="smaller-text">Tijdens divers commissiewerk en een bestuursjaar bij mijn studentenijshockeyvereniging heb ik veel kennis opgestoken over het verbinden van mensen. Iedereen heeft een eigen mening en geregeld staan belangen precies tegenover elkaar. Door goed met elkaar in gesprek te gaan, naar elkaar te luisteren, compromissen te sluiten en een open houding te hebben kan er echter bijna altijd wel een oplossing gevonden worden die iedereen tevreden stelt. En daarmee boekt men resultaten, naast de voldoening die het oplevert.</p>
 
                     <h2 align="center">
                         <hr>
-                        <small><i>"De kracht van kleinere dorpen zit in het ons-kent-ons-gevoel dat er heerst."</i></small>
+                        <small><i>"De kracht van kleinere dorpen zit in het ons-kent-ons-gevoel."</i></small>
                         <hr>
                     </h2>
                 </div>
@@ -361,7 +361,7 @@
 
                     <p class="smaller-text">Ik ben Marvin Tiemessen, masterstudent aan de Technische Universiteit Eindhoven en heb een passie voor innovatie en ondernemen. Geboren in Nieuw-Wehl, tevens in een krimpgemeente, ben ik op mijn 18de verhuisd naar de stad Eindhoven om daar te studeren. </p>
                     <p class="smaller-text">De grote stad was overweldigend, maar voelde ook als een verademing. Het gemak staat centraal in de stad en ik denk dat met slimme snufjes en technieken we dit ook naar het platteland en het dorp kunnen brengen. Tijdens mijn bachelor periode heb ik verscheidene nevenactiviteiten volbracht waardoor ik een échte allrounder ben geworden. Van designen, rapporteren tot aan samenwerken. </p>
-                    <p class="smaller-text">Ik geloof in mensen hun daadkracht, visie en doorzettingsvermogen, en ik zie dit ook terug in mijn eigen dorp, waar bewoners zich inzetten voor een leefbare omgeving. Door middel van samenwerken, kunnen we samen iets moois neerzetten en ik wil deze filosofie ook doorgeven aan iedereen die ik tegen kom. In dit team is mijn ervaring met participatie, kritisch denken en innoveren mijn toegevoegde waarde.
+                    <p class="smaller-text">Ik geloof in mensen, hun daadkracht, visie en doorzettingsvermogen, en ik zie dit ook terug in mijn eigen dorp, waar bewoners zich inzetten voor een leefbare omgeving. Door middel van samenwerken, kunnen we samen iets moois neerzetten en ik wil deze filosofie ook doorgeven aan iedereen die ik tegen kom. In dit team is mijn ervaring met participatie, kritisch denken en innoveren mijn toegevoegde waarde.
                     </p>
 
                     <h2 align="center">
