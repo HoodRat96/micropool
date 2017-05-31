@@ -382,7 +382,7 @@
                        <h3>Marvin Tiemessen <br>
                        <small>Sustainable Energy Technology TU/e</small></h3>
                        <hr>
-                       <img class="img-responsive person-size" src="../img/Marvin1cropped.jpg.png" alt="">
+                       <img class="img-responsive person-size" src="../img/Marvin1croppedmobile.jpg" alt="">
                 </div>
 
                 <div class="col-md-12 text-center">                   
