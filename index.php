@@ -31,8 +31,10 @@
 </head>
 
 <body>
-    <div class="brand"><img src="./img/headerlogo.png" alt="" height="60">  Micropool</div>
-    
+    <div class="brand">
+		<img src="../img/headerlogo.png" alt="" height="60px"> Micropool <a id="leuk-font"> voor leven in uw dorp</a>
+    </div>
+        
     <!-- Navigation -->
     <nav class="navbar navbar-default" role="navigation">
         <div class="container">

@@ -32,7 +32,9 @@
 </head>
 
 <body>
-	<div class="brand"><img src="../img/headerlogo.png" alt="" height="60px">  Micropool</div>
+    <div class="brand">
+		<img src="../img/headerlogo.png" alt="" height="60px"> Micropool <a id="leuk-font"> voor leven in uw dorp</a>
+    </div>  
     
     <!-- Navigation -->
     <nav class="navbar navbar-default" role="navigation">
@@ -46,7 +48,10 @@
                     <span class="icon-bar"></span>
                 </button>
                 <!-- navbar-brand is hidden on larger screens, but visible when the menu is collapsed -->
-                <a class="navbar-brand" href="../index.php">Micropool</a>
+                <img class="navbar-brand" src="../img/mobileheaderlogo.png"/>
+           		
+				<a class="navbar-brand" href="./index.php"> Micropool</a>
+           		<a class="navbar-brand" id="leuk-font-mobile"> voor leven in uw dorp</a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
