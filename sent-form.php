@@ -13,10 +13,34 @@ $email = $_POST['email'];
 $phone = $_POST['phone'];
 $message = $_POST['message'];
 
-// Set up email
-$msg = "Nieuw ingevuld contactformulier! \nName: " . $name . "\nEmail: " . $email . "\nPhone: " . $phone . "\nEmail: " . $email;
-$msg = wordwrap($msg,75);
-mail($myemail,"New Form Submission",$msg);
-mail($email,"Bedankt voor het invullen van ons contactformulier. We nemen zo snel mogelijk contact met u op. Het bericht dat u gestuurd heeft, is: ",$msg);
+// Email voor client
+$msg = "Beste " . $name . 
+	",\n\nWij danken u vriendelijk voor het invullen van ons contactformulier!\n" . 
+		"We zullen zo snel mogelijk contact met u opnemen. \n\n" . 
+		"Hieronder staan de gegevens die u ingevuld heeft: \n\n" .
+		"Naam: " . $name .
+		"\nEmail-adres: " . $email .
+		"\nTelefoonnummer: " . $phone .
+		
+		"\n\nHet bericht dat u gestuurd heeft, is: \n\n" . $message . 
+	
+	"\n\n Met vriendelijke groet, \n " . 
+		"Het team van Micropool \n\n ";
+
+// Email voor ons
+$msg4us = "Beste jongens van Micropool, er is weer een contactformulier binnen.\n" .
+	"\nNaam: " . $name .
+	"\nEmail-adres: " . $email . 
+	"\nTelefoonnummer: " . $phone .
+	"\nBericht: \n\n" . $message;
+
+// Words per line (useful for readability)
+$msg = wordwrap($msg,140);
+$msg4us = wordwrap($msg4us,70);
+
+// Onderwerp van mail naar client
+mail($email,"Micropool: Bedankt voor het invullen van ons contactformulier.",$msg);
+// Onderwerp van mail naar ons
+mail($myemail,"Ingevuld contactformulier van " . $name, $msg4us);
 
 echo $file; ?>

@@ -120,7 +120,7 @@
                     <hr><h2 class="intro-text text-center">Ons 
                     <strong>Contactformulier</strong>
                     </h2><hr>
-                    <p class="text-center">Heef u vragen of wenst u een nadere toelichting, aarzel dan niet ons te contacteren. Wij horen graag van u!</p>
+                    <p class="text-center">Heeft u vragen of wenst u een nadere toelichting, aarzel dan niet ons te contacteren. Wij horen graag van u!</p>
                     <p class="text-center">Stuur een mail naar <strong><a href="mailto:contact@micropool.nl">contact@micropool.nl</a></strong>, of vul onderstaand contactformulier in.</p>
                     <hr>
                     
@@ -135,13 +135,16 @@
                                 <input type="email" id="email" name="email" class="form-control" placeholder="email@voorbeeld.nl" required="">
                             </div>
                             <div class="form-group col-lg-4">
-                                <label for="telnr">Telefoonnummer</label>
-                                <input type="tel" id="telnr" name="tel" class="form-control" placeholder="06 12345678">
+                                <label for="phone">Telefoonnummer</label>
+                                <input type="tel" id="phone" name="phone" class="form-control" placeholder="06 12345678">
                             </div>
                             <div class="clearfix"></div>
                             <div class="form-group col-lg-12">
-                                <label>Bericht</label>
-                                <textarea class="form-control" rows="6" required=""></textarea>
+                                <label for="message">Bericht</label>
+                                <!--<input type="text" id="message" name="message" class="form-control" required="">-->
+                                
+                                <textarea type="text" id="mesasge" name="message" class="form-control" rows="6" required=""></textarea> 
+                                
                             </div>
                             
                             <div class="form-group col-lg-12">
