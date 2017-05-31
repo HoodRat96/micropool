@@ -246,3 +246,15 @@ a.no-link-color {
 	height:125px;
 	width:100%;
 }
+
+@font-face {
+	font-family: "Painting in the Sunlight";
+	src: url("../fonts/Painting in the Sunlight.ttf");
+}
+
+a#leuk-font {
+	font-family: 'Painting in the Sunlight';
+	font-size: 64px;
+	color: white;
+	font-weight: 100;
+}
