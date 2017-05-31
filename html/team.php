@@ -33,7 +33,7 @@
 <body>
    
     <div class="brand">
-    	<img src="../img/headerlogo.png" alt="" height="60px"> Micropool
+		<img src="../img/headerlogo.png" alt="" height="60px"> Micropool <a id="leuk-font"> voor leven in uw dorp</a>
     </div>
     
     <!-- Navigation -->
@@ -344,7 +344,7 @@
         <div class="row hidden-sm hidden-xs">
             <div class="box" id="marvin">
                 <div class="col-md-5 text-center">
-                    <img class="img-responsive person-size-big" src="../img/Marvin1cropped.jpg.png" alt="">
+                    <img class="img-responsive person-size-big" src="../img/Marvin1cropped.jpg" alt="">
                     <h3 class="hidden-sm hidden-xs">Marvin Tiemessen
                         <br>
                         <small>Oprichter</small>

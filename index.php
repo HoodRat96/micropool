@@ -92,9 +92,7 @@
                     
 					<p>Voor een schappelijke prijs brengen wij de mogelijkheden bij uw dorp of gemeenschap in beeld, maar belangrijker nog, betrekken we de lokale bevolking. We zorgen ervoor dat onze resultaten breed door de lokale bevolking worden gedragen.</p>
                     
-                    <hr>
-						<h3><small>Samen willen we werken aan uw micropool van de toekomst</small></h3>
-                    <hr>
+                   
                     
                     <div class="col-lg-2 text-center">
 				</div>
@@ -137,9 +135,14 @@
                 
                 
 				<div class="col-lg-2"></div>
-               	<div class="col-lg-8">
-               		<p>Wij bij Micropool geloven dat de kracht van een dorp de actieve bewoners zijn die zich inzetten voor de gemeenschap. Uit eigen ervaring kunnen we meenemen dat juist die mensen ontzettend belangrijk zijn voor de leefbaarheid van een gemeenschap in het dorp. Deze ambassadeurs van het dorp willen we de handvaten bieden om zelf dingen te kunnen organiseren, waar geen belemmeringen in de weg staan om gave evenementen neer te zetten.</p></div>
+               	<div class="col-lg-8 text-center" id="extraruimte">
+               		<p>Wij bij Micropool geloven dat de kracht van een dorp de actieve bewoners zijn die zich inzetten voor de gemeenschap. Uit eigen ervaring kunnen we meenemen dat juist die mensen ontzettend belangrijk zijn voor de leefbaarheid van een gemeenschap in het dorp. Deze ambassadeurs van het dorp willen we de handvaten bieden om zelf dingen te kunnen organiseren, waar geen belemmeringen in de weg staan om gave evenementen neer te zetten.</p>
+               		<hr>
+						<h3><small>Samen willen we werken aan uw micropool van de toekomst</small></h3>
+                    <hr>
+                    </div>
 				<div class="col-lg-2"></div>
+             
                 
             </div>
         </div>

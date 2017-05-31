@@ -239,22 +239,19 @@ a.no-link-color {
 	margin-bottom: 190px;
 }
 
-#footer {
-	position: fixed;
-	left:0px;
-	bottom:0px;
-	height:125px;
-	width:100%;
-}
-
 @font-face {
-	font-family: "Painting in the Sunlight";
-	src: url("../fonts/Painting in the Sunlight.ttf");
+	font-family: "DK Pimpernel";
+	src: url('../fonts/DK Pimpernel.otf');
 }
 
 a#leuk-font {
-	font-family: 'Painting in the Sunlight';
-	font-size: 64px;
+	font-family: 'DK Pimpernel';
+	font-size: 36px;
 	color: white;
-	font-weight: 100;
+	font-weight: 200;
+	letter-spacing: 3px;
+}
+
+#extraruimte {
+	margin-top: 30px;
 }
