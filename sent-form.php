@@ -5,7 +5,7 @@ $file = file_get_contents('./html/contactlanding.php');
 // Emails form data to you and the person submitting the form
 // This version requires no database.
 // Set your email below
-$myemail = "contact@micropool.nl"; // Replace with your email, please
+$myemail = "rodger@micropool.nl"; // Replace with your email, please
 
 // Receive and sanitize input
 $name = $_POST['name'];
